@@ -55,7 +55,7 @@ print(verduras)
 verduras.remove("lechuga")
 print(verduras)
 """
-verduras = ["espinaca","tomate","lechuga","tomate"]
+verduras = ["espinaca","tomate","lechuga","tomate", "zanahorias"]
 verduras.reverse()
 print(verduras)
 verduras.sort()
