@@ -25,3 +25,4 @@ frutas.discard("piña")
 print(frutas.pop())
 
 frutas.intersection(carros)
+frutas.difference(carros)
