@@ -23,4 +23,5 @@ frutas.discard("guanabana")
 print(frutas)
 frutas.discard("piña")
 print(frutas.pop())
+
 frutas.intersection(carros)
